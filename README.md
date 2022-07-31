@@ -17,22 +17,10 @@ The tables were successfully loaded into pgAdmin
 
 
 ## Results
+![results](https://github.com/vvinci21/Amazon_Vine_Analysis/blob/b70455cba40908c55bf9ec45a710436b87079de2/reviews1.png)
 
-![reviews1](https://github.com/vvinci21/Amazon_Vine_Analysis/blob/764644e5cbe5794ce20f0cf0121b25d6ca287f39/reviews1.png)
+The above results show paid number of reviews, paid 5 star reviews, paid 5 star perecentage, unpaid number of reviews and unpaid 5 star reviews.
 
-* The paid_reviews image shows the total number of paid review in the Digital Video Game Reviews dataset as part of the Amazon Vine Program.
- * ![paid_reviews.png](https://github.com/RuthLD/Amazon_Vine_Analysis/blob/main/Resources/paid_reviews.png) 
-* The uppaid_reviews image show the total number of uppaid review in the Digital Video Game Reviews dataset.
- * ![upaid_reviews.png](https://github.com/RuthLD/Amazon_Vine_Analysis/blob/main/Resources/unpaid_reviews.png)
-### Total Vine reviews & non-Vine reviews
-* Vine reviews = 0
-* non-Vine reviews = 1685
-### Total 5 star Vine reviews & non-Vine reviews
-* ⭐⭐⭐⭐⭐ Vine reviews = 0
-* ⭐⭐⭐⭐⭐ non-Vine reviews = 631
-### Percentage of 5 star Vine reviews & non-Vine reviews
-* Vine reviews = 0
-* non-Vine reviews = 37.45%
 ## Summary
-* Based on the results there is no bias in the Digital Video Game Reviews dataset as there were no paided reviews.
-* Digital Video Game Reviews may have fewer reviews per product title so combining the data set with the Video Game Reviews dataset (which is the physical edition of the product) may offer different results for the number of review and participates in the Amazon Vine Program.
+* Based on the results paid 5 star reviews make up almost 50% of all paid reviews. However, with only 48 total paid 5 star reviews and over 15,000 unpaid 5 star reviews I would determine it has little bias on the overall review of the products.
+* Determining duplicate reviews from the same reviewer could remove some bias data either for or against a game. 
