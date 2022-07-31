@@ -18,7 +18,7 @@ The tables were successfully loaded into pgAdmin
 
 ## Results
 
-![reviews](https://github.com/vvinci21/Amazon_Vine_Analysis/blob/764644e5cbe5794ce20f0cf0121b25d6ca287f39/reviews.png)
+![reviews1](https://github.com/vvinci21/Amazon_Vine_Analysis/blob/764644e5cbe5794ce20f0cf0121b25d6ca287f39/reviews1.png)
 
 * The paid_reviews image shows the total number of paid review in the Digital Video Game Reviews dataset as part of the Amazon Vine Program.
  * ![paid_reviews.png](https://github.com/RuthLD/Amazon_Vine_Analysis/blob/main/Resources/paid_reviews.png) 
